@@ -7,3 +7,4 @@
 # removed certain redundant code
 # added home link to header <a href="/">Horiseon</a>
 # still too much redundand code in style.css
+# consolidated several CSS sections with similar code
